@@ -1,0 +1,15 @@
+############ INSTALLATION
+Pour mettre en place l'environnement pour interconnecter SQLite avec un script perl suivre le lien suivant: 
+http://zetcode.com/db/sqliteperltutorial/dbi/ 
+
+les modules de perl:
+https://www.livejournal.com/doc/server/lj.install.perl_setup.modules.html
+
+
+##### Projet
+
+Le projet consiste a parser une page meteo de recuperer les informations
+de stocker les informations dans notre base de donnees, d'afficher un graphe
+et la temperature actuelle et l'humidite.
+
+
